@@ -250,7 +250,7 @@ $databases = array (
     'default' => 
     array (
       'database' => 'drupal',
-      'username' => 'rvurukonda',
+      'username' => 'rajeshvurukonda',
       'password' => 'sukri1222',
       'host' => 'localhost',
       'port' => '',
@@ -308,7 +308,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = '9GOJr3bWM7zM0ooYd7Yr4Cx_2Vxtt6Tg_d1sueyyYc8';
+$drupal_hash_salt = 'XMW65Ly4bE0SvKEAAWzaGCPxyCmcVviuGS-TcRCThx8';
 
 /**
  * Base URL (optional).
